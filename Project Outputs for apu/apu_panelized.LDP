@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\regulated_power_supply_board\apu_panelized.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=apu_panelized-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=apu_panelized-slotholes.txt|DrillLayers=gtl,gbl

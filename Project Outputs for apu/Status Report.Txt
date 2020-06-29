@@ -1,0 +1,15 @@
+Source PCB Design apu_panelized.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [regulated_power_supply_board.PrjPcb]
+   Generated File[apu_panelized-RoundHoles.TXT]
+   Generated File[apu_panelized-SlotHoles.TXT]
+   Generated File[apu_panelized.LDP]
+   Generated File[apu_panelized.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:34:53 PM On 4/10/2020

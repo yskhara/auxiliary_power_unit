@@ -139,65 +139,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for regulated_power_supply_board\apu_panelized.RUL
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueID=5D85E50A-AB51-47D6-B4D8-0FEEE51FDD0A
+Description=CAN_BUS_12V
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=U2|UniqueId=\DDUFHWTO|Kind=1|AlternatePart= 
+Variation2=Designator=C30|UniqueId=\FSNWCXZK|Kind=1|AlternatePart= 
+Variation3=Designator=C25|UniqueId=\SSAXNUTA|Kind=1|AlternatePart= 
+Variation4=Designator=L2|UniqueId=\XXQZFBZZ|Kind=1|AlternatePart= 
+Variation5=Designator=C26|UniqueId=\NOHMXDOL|Kind=1|AlternatePart= 
+Variation6=Designator=C27|UniqueId=\PPKSABLD|Kind=1|AlternatePart= 
+Variation7=Designator=C28|UniqueId=\KWXDNFTW|Kind=1|AlternatePart= 
+Variation8=Designator=R14|UniqueId=\GFPEPQLH|Kind=1|AlternatePart= 
+Variation9=Designator=R15|UniqueId=\RUXYZPFC|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
